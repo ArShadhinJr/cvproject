@@ -1,0 +1,136 @@
+*{
+     margin: 0;
+     padding: 0;
+}
+body{
+     background-color: #EEE;
+     font-family: 'Oswald', sans-serif;
+}
+.container{
+    background-color: #d5f6fe; 
+    max-width: 1000px;
+    padding: 20px;
+    
+}
+.header{
+     
+}
+.profile-image{
+     width: 120px;
+     height: 120px;
+     margin: 15px;
+     margin-right: 0;
+     border: 3px solid black;
+     border-radius: 50%;
+     float: left;
+}
+.div1{
+     margin: 10px;
+}
+.profile-name{
+     float: left;
+     margin: 40px;
+}
+h1,h2,h3,h4,h5,h6{
+     color: #059896;
+     
+}
+h1{
+     font-size: 220%;
+}
+.header-contact{
+     float: right;
+     margin: 40px;
+}
+.header-contact a{
+     color: #059896;
+     text-decoration: none;
+}
+.header-contact a:hover{
+     color: tomato;
+     text-decoration: underline;
+}
+.div-clear{
+     clear: both;
+}
+#hr {
+     margin: 10px auto;
+     border: 3px solid black;
+     border-bottom: 0;
+}
+#personal-section{
+     padding-top: 10px;
+     padding-left:15px;
+}
+.contact{}
+.contact-left{
+     float: left;
+     width: 30%;
+}
+.contact-rigth{
+     float: right;
+     width: 70%;
+}
+.common-hr{
+     border: solid 1px black;
+     border-bottom: none;
+     margin: 20px auto;
+     width: 100%;
+}
+#workex-section{
+     
+     padding-left:15px;
+}
+.workex{}
+.workex-left{
+     float: left;
+     width: 30%;
+}
+.workex-rigth{
+     float: right;
+     width: 70%;
+}
+#education{
+     padding-left:15px;
+}
+.edu-left{
+     float: left;
+     width: 30%;
+}
+.edu-rigth{
+    float: right;
+     width: 70%; 
+}
+.edurleft{
+     float: left;
+     width: 45%;
+}
+.edurrigth{
+     float: right;
+     width: 45%;
+}
+.cl {
+     text-decoration: none;
+     color: red;
+}
+#reference{
+     padding-left:15px;
+}
+.cl1{
+     text-decoration: none;
+     color: black;
+}
+.footer1{
+     text-align: center;
+     padding: 20px;
+     background-color: #e8fbfe;
+}
+.a1 {
+     margin: 70px;
+     text-decoration: none;
+     color: #4d999c;
+}
+#hr1 {
+     margin: 10px auto;
+     border: 3px solid black;
+     border-top: 0;
